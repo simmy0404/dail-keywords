@@ -51,7 +51,7 @@ function App() {
 
   return (
     <div className="dail-wrapper">
-      <h1>Old Mobile Dailpad</h1>
+      <h1>Old Mobile Dailpad-version Ankit</h1>
       <input className="dail-input" type="text" value={value} placeholder="Type your msg here..." />
       <div className="dail-box">
         {keywords.map((val) => {
